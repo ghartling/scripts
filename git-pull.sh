@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-PROJECTS="CppSandbox Java8Sandbox JavaFxSandbox spring weather scripts"
+PROJECTS="CppSandbox Java8Sandbox JavaCert JavaFxSandbox refapp scripts spring SpringBootJavaFxSandbox weather UnitTestReportSandbox"
 GIT_COMMAND="pull"
 
 #if [ "$1" == "c" ]
