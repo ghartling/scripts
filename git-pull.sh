@@ -1,14 +1,7 @@
 #!/bin/bash
 #
-PROJECTS="CppSandbox Java8Sandbox JavaCert JavaFxSandbox refapp scripts spring SpringBootJavaFxSandbox weather UnitTestReportSandbox"
+PROJECTS="CppSandbox Java8Sandbox JavaCert JavaFxSandbox refapp scripts spring SpringBootJavaFxSandbox weather UnitTestReportSandbox investing"
 GIT_COMMAND="pull"
-
-#if [ "$1" == "c" ]
-#then
-#    GIT_COMMAND="clone"
-#else
-#    GIT_COMMAND="pull"
-#fi
 
 for p in $PROJECTS; do
 	cd $p
