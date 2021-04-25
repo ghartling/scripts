@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-PROJECTS="CppSandbox Java8Sandbox JavaCert JavaFxSandbox refapp scripts spring SpringBootJavaFxSandbox weather UnitTestReportSandbox investing camping"
+PROJECTS="CppSandbox Java8Sandbox JavaCert JavaFxSandbox refapp scripts spring SpringBootJavaFxSandbox weather UnitTestReportSandbox investing camping wyndham"
 GIT_COMMAND="clone"
 
 for p in $PROJECTS; do
